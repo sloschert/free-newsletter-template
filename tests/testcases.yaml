@@ -1,0 +1,16 @@
+Logo:
+  - On top of the mail is a logo visible. 
+  - It looks the same as specified in `demo_logo.png`.
+  - It is either on the left of title and subtitle (wide viewport) or on centered above title and subtitle (narrow viewport).
+
+Title and subtitle:
+  - Title and subtitle are the same as specified in `newsletter_data.yaml`.
+  - Title is larger than subtitle.
+  - When stacked on an arrow viewport, text is centered.
+
+Bulletpoints:
+  - Are visible.
+
+Red lines:
+  - Under each headline is a red line.
+  - Before the signature ("IDA") there is a red dash.

@@ -1,0 +1,14 @@
+clients:
+  - gmail-browserclient
+  - gmail-androidapp
+  - gmx-browserclient
+  - gmx-androidapp
+  - thunderbird-ubuntu
+  - riseup-browserclient
+  - systemli-browserclient
+  - firefox-ubuntu-desktopscreen
+  - firefox-ubuntu-mobilescreen
+  - applemail-iosapp
+  - outlook-iosapp
+  - outlook365-browserclient
+  - outlook365-windows

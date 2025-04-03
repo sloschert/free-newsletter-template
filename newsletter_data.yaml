@@ -1,0 +1,29 @@
+# Header Section
+newsletter_title: "Demo Newsletter 04/2025"
+newsletter_subtitle: "Demonstrating The Newsletter Subtitle"
+
+# Text Section
+greeting_text: "Dear Demo Organization Friends,"
+farewell_text: "Best regards and maybe until soon,"
+signature: "Demo Organization"
+
+# Footer Section
+blog_url: "https://www.demosite.com"
+blog_url_text: "www.demosite.com"
+organization_name: "Demo Organization"
+organization_address: "Demo Street 1, 12345 Demo City"
+bank_account_details: "IBAN: DE21 2345 6789 0123 4567 89, BIC: DEMODEMO123"
+
+# Logo Configuration
+logo_path: "demo_logo.png"
+logo_height: 70
+logo_width: 90
+logo_alt: "Organization Logo"
+
+# Color Scheme
+colors:
+  primary: "#E63946"    # Primary color (headings, accents)
+  secondary: "#4A2C30"  # Secondary color (less frequently used)
+  tertiary: "#ffffff"   # Tertiary color (usually white for background/text on dark background)
+  text: "#333333"       # Text color
+  accent: "#FF6B6B"     # Accent color (highlights, links)
