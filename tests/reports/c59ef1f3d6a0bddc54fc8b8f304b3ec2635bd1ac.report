@@ -1,0 +1,171 @@
+clients:
+  applemail-iosapp:
+    Bulletpoints:
+      failed_questions: []
+      passed: true
+    Logo:
+      failed_questions: []
+      passed: true
+    Red lines:
+      failed_questions: []
+      passed: true
+    Title and subtitle:
+      failed_questions: []
+      passed: true
+  firefox-ubuntu-desktopscreen:
+    Bulletpoints:
+      failed_questions: []
+      passed: true
+    Logo:
+      failed_questions: []
+      passed: true
+    Red lines:
+      failed_questions: []
+      passed: true
+    Title and subtitle:
+      failed_questions: []
+      passed: true
+  firefox-ubuntu-mobilescreen:
+    Bulletpoints:
+      failed_questions: []
+      passed: true
+    Logo:
+      failed_questions: []
+      passed: true
+    Red lines:
+      failed_questions: []
+      passed: true
+    Title and subtitle:
+      failed_questions: []
+      passed: true
+  gmail-androidapp:
+    Bulletpoints:
+      failed_questions: []
+      passed: true
+    Logo:
+      failed_questions: []
+      passed: true
+    Red lines:
+      failed_questions: []
+      passed: true
+    Title and subtitle:
+      failed_questions: []
+      passed: true
+  gmail-browserclient:
+    Bulletpoints:
+      failed_questions: []
+      passed: true
+    Logo:
+      failed_questions: []
+      passed: true
+    Red lines:
+      failed_questions: []
+      passed: true
+    Title and subtitle:
+      failed_questions: []
+      passed: true
+  gmx-androidapp:
+    Bulletpoints:
+      failed_questions: []
+      passed: true
+    Logo:
+      failed_questions: []
+      passed: true
+    Red lines:
+      failed_questions: []
+      passed: true
+    Title and subtitle:
+      failed_questions: []
+      passed: true
+  gmx-browserclient:
+    Bulletpoints:
+      failed_questions: []
+      passed: true
+    Logo:
+      failed_questions: []
+      passed: true
+    Red lines:
+      failed_questions: []
+      passed: true
+    Title and subtitle:
+      failed_questions: []
+      passed: true
+  outlook-iosapp:
+    Bulletpoints:
+      failed_questions: []
+      passed: true
+    Logo:
+      failed_questions: []
+      passed: true
+    Red lines:
+      failed_questions: []
+      passed: true
+    Title and subtitle:
+      failed_questions: []
+      passed: true
+  outlook365-browserclient:
+    Bulletpoints:
+      failed_questions: []
+      passed: true
+    Logo:
+      failed_questions: []
+      passed: true
+    Red lines:
+      failed_questions: []
+      passed: true
+    Title and subtitle:
+      failed_questions: []
+      passed: true
+  outlook365-windows:
+    Bulletpoints:
+      failed_questions: []
+      passed: true
+    Logo:
+      failed_questions: []
+      passed: true
+    Red lines:
+      failed_questions: []
+      passed: true
+    Title and subtitle:
+      failed_questions: []
+      passed: true
+  riseup-browserclient:
+    Bulletpoints:
+      failed_questions: []
+      passed: true
+    Logo:
+      failed_questions: []
+      passed: true
+    Red lines:
+      failed_questions: []
+      passed: true
+    Title and subtitle:
+      failed_questions: []
+      passed: true
+  systemli-browserclient:
+    Bulletpoints:
+      failed_questions: []
+      passed: true
+    Logo:
+      failed_questions: []
+      passed: true
+    Red lines:
+      failed_questions: []
+      passed: true
+    Title and subtitle:
+      failed_questions: []
+      passed: true
+  thunderbird-ubuntu:
+    Bulletpoints:
+      failed_questions: []
+      passed: true
+    Logo:
+      failed_questions: []
+      passed: true
+    Red lines:
+      failed_questions: []
+      passed: true
+    Title and subtitle:
+      failed_questions: []
+      passed: true
+commit: c59ef1f3d6a0bddc54fc8b8f304b3ec2635bd1ac
